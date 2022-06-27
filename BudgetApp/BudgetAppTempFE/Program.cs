@@ -6,7 +6,14 @@ namespace BudgetAppTempFE
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Run();
         }
+
+        static void Run()
+        {
+
+        }
+
+
     }
 }

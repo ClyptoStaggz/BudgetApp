@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetAppTempFE", "BudgetAppTempFE\BudgetAppTempFE.csproj", "{B5079A3C-AAF3-441A-A3B4-A766D8C86127}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BudgetAppTempFE", "BudgetAppTempFE\BudgetAppTempFE.csproj", "{B5079A3C-AAF3-441A-A3B4-A766D8C86127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetAppStorage", "BudgetAppStorage\BudgetAppStorage.csproj", "{C09D8C27-24C3-41B3-99B5-90BCC4A1326B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetAppDomain", "BudgetAppDomain\BudgetAppDomain.csproj", "{FE18D4A0-7D67-4750-8EAC-6A5474220C58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B5079A3C-AAF3-441A-A3B4-A766D8C86127}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5079A3C-AAF3-441A-A3B4-A766D8C86127}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5079A3C-AAF3-441A-A3B4-A766D8C86127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09D8C27-24C3-41B3-99B5-90BCC4A1326B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09D8C27-24C3-41B3-99B5-90BCC4A1326B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09D8C27-24C3-41B3-99B5-90BCC4A1326B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09D8C27-24C3-41B3-99B5-90BCC4A1326B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE18D4A0-7D67-4750-8EAC-6A5474220C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE18D4A0-7D67-4750-8EAC-6A5474220C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE18D4A0-7D67-4750-8EAC-6A5474220C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE18D4A0-7D67-4750-8EAC-6A5474220C58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
